@@ -1,8 +1,10 @@
 # Django ChatApp
 
+A small real time chat application built using Django. It also uses Channels and Vanilla Javascript with Web Sockets.
+
 ![](http://g.recordit.co/JYruQDLd0h.gif)
 
-A small real time chat application built using Django. It also uses Channels and Vanilla Javascript with Web Sockets.
+
 
 ## Architecture ##
  - When a user logs in, the frontend downloads the room list and opens a
