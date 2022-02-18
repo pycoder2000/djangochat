@@ -2,7 +2,7 @@
 
 A small real time chat application built using Django. It also uses Channels and Vanilla Javascript with Web Sockets.
 
-![](http://g.recordit.co/JYruQDLd0h.gif)
+![](Demo.gif)
 
 
 ## Architecture ##
