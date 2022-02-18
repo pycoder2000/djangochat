@@ -53,6 +53,7 @@ Because of time constraints this project lacks of:
 virtualenv env
 source env/bin/activate
 ```
+> (for mac)
 
 To deactivate the environment
 ```bash
