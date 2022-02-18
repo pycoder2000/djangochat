@@ -1,3 +1,4 @@
+```bash
 📂 __djangochat__
 ├── 📂 __core__
 │   ├── 📂 __static__
@@ -36,3 +37,4 @@
 │   └── 📄 [views.py](room/views.py)
 ├── 📄 [manage.py](manage.py)
 └── 📄 [db.sqllite3]](db.sqllite3)
+```
