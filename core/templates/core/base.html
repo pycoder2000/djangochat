@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}{% endblock %}DjangoChat</title> 
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="shortcut icon" href="{%  static 'images/favicon.ico' %}">
+    <style>
+        .chat-messages{
+            height: 400px;
+            overflow-y: auto;
+        }
+    </style>
 </head>
 <body class="bg-teal-600">
     <nav class="flex items-center justify-between px-4 py-6 bg-teal-800">
