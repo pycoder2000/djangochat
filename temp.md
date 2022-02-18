@@ -1,3 +1,4 @@
+```bash
 📦djangochat
  ┣ 📂core
  ┃ ┣ 📂static
@@ -39,3 +40,4 @@
  ┃ ┗ 📜views.py
  ┣ 📜db.sqlite3
  ┣ 📜manage.py
+ ```
