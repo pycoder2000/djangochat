@@ -10,7 +10,6 @@
  ┃ ┃ ┃ ┣ 📜frontpage.html
  ┃ ┃ ┃ ┣ 📜login.html
  ┃ ┃ ┃ ┗ 📜signup.html
- ┃ ┣ 📜__init__.py
  ┃ ┣ 📜admin.py
  ┃ ┣ 📜apps.py
  ┃ ┣ 📜forms.py
@@ -19,7 +18,6 @@
  ┃ ┣ 📜urls.py
  ┃ ┗ 📜views.py
  ┣ 📂djangochat
- ┃ ┣ 📜__init__.py
  ┃ ┣ 📜asgi.py
  ┃ ┣ 📜settings.py
  ┃ ┣ 📜urls.py
@@ -29,7 +27,6 @@
  ┃ ┃ ┣ 📂room
  ┃ ┃ ┃ ┣ 📜room.html
  ┃ ┃ ┃ ┗ 📜rooms.html
- ┃ ┣ 📜__init__.py
  ┃ ┣ 📜admin.py
  ┃ ┣ 📜apps.py
  ┃ ┣ 📜consumers.py
