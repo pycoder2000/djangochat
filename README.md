@@ -1,5 +1,7 @@
 # Django ChatApp
 
+<a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
+
 A small real time chat application built using Django. It also uses Channels and Vanilla Javascript with Web Sockets.
 
 ![](Demo.gif)
