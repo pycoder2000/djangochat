@@ -37,37 +37,45 @@ Because of time constraints this project lacks of:
 
 ## Run ##
 
-1. Move to the project root folder.
+1. Clone the project repository
+```bash
+git clone https://github.com/pycoder2000/djangochat.git
+```
 
-2. Create and activate a virtual environment.
+2. Move to the project root folder.
+```bash
+cd djangochat
+```
+
+3. Create and activate a virtual environment.
+> (for mac)
 ```bash
 virtualenv env
 source env/bin/activate
 ```
-> (for mac)
 
 To deactivate the environment
 ```bash
 deactivate
 ```
 
-3. Install requirements
+4. Install requirements
 
 ```bash
 pip3 install -r requirements.txt
 ```
 
-4. Initialize database
+5. Initialize database
 ```bash
 python3 manage.py migrate
 ```
 
-5. Create admin user
+6. Create admin user
 ```bash
 python3 manage.py createsuperuser
 ```
 
-6. Run development server
+7. Run development server
 ```bash
 python3 manage.py runserver
 ```
